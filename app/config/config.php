@@ -19,7 +19,7 @@
     define('DOMAIN_NAME', 'localhost/PHP-MVC-Framework');
 
     // Site Name
-    define('SITE_NAME', 'AMS');
+    define('SITE_NAME', 'PHP-MVC-Framework');
 
     // App Version
     define('APP_VERSION', '1.0.0');
